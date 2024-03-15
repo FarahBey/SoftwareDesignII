@@ -1,0 +1,5 @@
+What do you expect (and like) to learn in this class? If we have time at the end of the
+semester to go through additional topics related to software engineering, Java or object-oriented programming,
+what would you like us cover? Please write your answers in a text file and include it in your zip file.
+
+I like that java is an object oriented and I think that opens up a lot of possibilities up for me as a coder. I want to learn a lot about that if I can. If we have more time in the end I'd love to learn more about that as well.
